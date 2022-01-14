@@ -1,0 +1,40 @@
+/* section for padding for upper section  */
+.top-class{
+    padding-left: 120px;
+}
+h2{
+    margin-top: 87px;
+}
+.flexible h1{
+    font-size: 2em;
+}
+#id{
+    margin-top: 87px;
+}
+.flexible{
+    width: 70%;
+    display: flex;
+    margin-top: 145.8px;
+
+}
+.less-width{
+    width: 60%;
+    position: absolute;
+    width: 582px;
+    height: 270px;
+    left: 120px;
+    top: 285px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    
+    position: absolute;
+    width: 440px;
+    height: 414px;
+    left: 835px;
+    top: 211px;
+    
+}
